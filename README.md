@@ -6,12 +6,13 @@ This is a series of , well, tips and tricks related to 3d printing, most specifi
 
 
 
-Steps
 
 Introduction to 3d printing/ repraps:
 ============================
 
 http://reprap.org/wiki/The_incomplete_reprap_beginner's_guide
+
+
 Very general: 
 http://www.3ders.org/3d-printing-basics.html
 
@@ -25,7 +26,8 @@ Currently at the lab:
 - **Ultimaker 2**: print quality can be very high, almost "plug and print". Main issue : filament driver not putting out enough filament for prints with layer height >= 0.2. Best suited for 0.1 mm layer heights
 
 
-**tip** both machines are standalone, with an LCD screen / controller and an sd card 
+**tip** both machines are standalone, with an LCD screen / controller and an sd card, as it is more reliable and faster than via USB.
+LCD controllers also allow adjusting parameters *during* a print ("tune" menu): THIS IS ESSENTIAL !!
 
 **tip** watch , analyze, adjust, instead of restarting the print : most prints can be "saved" : you will not have industrial quality parts from the start, but if a part "works" , all is fine !
 
