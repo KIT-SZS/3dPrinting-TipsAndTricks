@@ -8,9 +8,11 @@ This is a series of , well, tips and tricks related to 3d printing, most specifi
 
 Steps
 
-Introduction to 3d printing:
+Introduction to 3d printing/ repraps:
 ============================
 
+http://reprap.org/wiki/The_incomplete_reprap_beginner's_guide
+Very general: 
 http://www.3ders.org/3d-printing-basics.html
 
 
@@ -60,6 +62,7 @@ Main issues:
 - the object is brittle, fragile , seems to be missing mater:
    * slow the machine down (DURING PRINT at first, with the "TUNE" menu on the LCD screen) to see if it fixes the issue
    * increase flow
+   * increase temperature (should never be above 230 °c for the Ultimaker 2 for PLA)
 
 - if corners lift up :
    * put some "uhu" stick glue on the glass bed
@@ -68,10 +71,12 @@ Main issues:
 Overall tips
 ============
 
+- do not hesitate to look for answers online : ultimaker or k8200 forums, reprap forums , google + etc: lots of helpfull people everywhere !
+
 
 
 Philosophy:
 ==========
 
-Both machines are Reprap derivates ie *open source* : if you have an issue, look around online , lots of people have likely created great upgrades for the different parts of the machines.
+Both machines are [Reprap](http://reprap.org/) derivates ie *open source* : if you have an issue, look around online , lots of people have likely created great upgrades for the different parts of the machines.
 And if you come up with a new upgrade, please share it with others, so everybody can benefit ! 
