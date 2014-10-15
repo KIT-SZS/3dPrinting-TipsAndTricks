@@ -50,7 +50,7 @@ creating /downloading 3d models
 
 - any design tool that can create STL files will do the job
 - lots of online part libraries (http://www.thingiverse.com/, https://www.youmagine.com/)
-- (OpenScad)[http://www.openscad.org/] is a very powerful code-based parametric design tool (free & open source) can be used to modify some existing designs 
+- [OpenScad](http://www.openscad.org/) is a very powerful code-based parametric design tool (free & open source) can be used to modify some existing designs 
 
 Slicing
 =======
