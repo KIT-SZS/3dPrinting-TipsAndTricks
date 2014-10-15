@@ -49,7 +49,9 @@ creating /downloading 3d models
 ===============================
 
 - any design tool that can create STL files will do the job
-- lots of online part libraries (http://www.thingiverse.com/, https://www.youmagine.com/)
+- if you to look for/ want to download existing designs, there are **huge** online part libraries:            
+       * https://www.youmagine.com/
+       * http://www.thingiverse.com/
 - [OpenScad](http://www.openscad.org/) is a very powerful code-based parametric design tool (free & open source) can be used to modify some existing designs 
 
 Slicing
