@@ -40,6 +40,18 @@ Workflow:
 - print it
 - if not satistfied , try again!
 
+or in a single line:
+
+ design -> slice -> print 
+
+
+creating /downloading 3d models
+===============================
+
+- any design tool that can create STL files will do the job
+- lots of online part libraries (http://www.thingiverse.com/, https://www.youmagine.com/)
+- (OpenScad)[http://www.openscad.org/] is a very powerful code-based parametric design tool (free & open source) can be used to modify some existing designs 
+
 Slicing
 =======
 
@@ -54,6 +66,14 @@ Once slicing is done, copy the GCODE file to the sd card, put it into the machin
 **tip** : I have already set up profiles for both machines in Cura , use them/modify them to taste (go into the "Machine" menu on top)
 
 **IMPORTANT**: do not use GCodes meant for a machine in another machine : ***GCODE IS MACHINE SPECIFIC !!!***
+
+
+Lots of online tutorials/guides are available, for example: (software evolves fast, so these are already partially outdated)
+
+Cura:
+http://www.3dgeni.us/getting-started-with-cura/
+Slic3r :
+http://richrap.blogspot.de/2012/01/slic3r-is-nicer-part-1-settings-and.html
 
 
 Printing
