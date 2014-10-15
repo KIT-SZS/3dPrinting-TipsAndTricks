@@ -17,7 +17,7 @@ Very general:
 http://www.3ders.org/3d-printing-basics.html
 
 
-Machines(building machine!):
+Machines:
 ============================
 
 Currently at the lab: 
