@@ -81,12 +81,21 @@ http://richrap.blogspot.de/2012/01/slic3r-is-nicer-part-1-settings-and.html
 Printing
 ========
 
+A good average speed is around 50 mm/s , temperatures between 190-220 for PLA (bioplastic)
+The most critical are the first 2-3 layers: if you have good adhereance of the print to the bed on those layers, your print might work.
+
+Printing is slow !
+
+Very ine detailed prints might require lowering temperature and speed.
+
+Observing what happends and understanding what went wrong helps a lot !
+
 
 Main issues:
 - the object is brittle, fragile , seems to be missing mater:
    * slow the machine down (DURING PRINT at first, with the "TUNE" menu on the LCD screen) to see if it fixes the issue
    * increase flow
-   * increase temperature (should never be above 230 °c for the Ultimaker 2 for PLA)
+   * increase temperature (should never be above 230 °c , even for the Ultimaker 2 for PLA)
 
 - if corners lift up :
    * put some "uhu" stick glue on the glass bed
